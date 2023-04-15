@@ -1,2 +1,2 @@
 # Surgical-Operation
-Mini project stimulating the operation
+Mini project simulating the operation
